@@ -5,3 +5,6 @@ Name
 Email
 
 [pretty pictures]
+
+{% include contact.md %}
+
